@@ -1,5 +1,17 @@
-# microapp-vue
+# microapp-vue [![Build Status](https://travis-ci.org/jonniespratley/microapp-vue.svg?branch=master)](https://travis-ci.org/jonniespratley/microapp-vue)
 
 ```
-yarn add --dev parcel-bundler babel-preset-env babel-preset-react
+$ yarn install
+```
+
+Dev:
+
+```
+$ yarn start
+```
+
+Build:
+
+```
+$ yarn build
 ```
